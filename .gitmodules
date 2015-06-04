@@ -1,0 +1,3 @@
+[submodule "lib/PokerAlgorithms"]
+	path = lib/PokerAlgorithms
+	url = https://github.com/mrAndersen/PokerAlgorithms.git
