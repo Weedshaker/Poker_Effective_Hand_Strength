@@ -16,4 +16,5 @@ I have been testing it with different Poker sites and it certainly gave me an ed
 
 1. Install an Apache, PHP 5 environment. The easiest to start are Windows xampp or Linux tasksel and add LAMP.
 2. Clone the Repo into your htdocs (xampp) or www/html (LAMP) folder.
-3. You are good to go!
+3. Navigate with your browser to it's location. Expl.: http://localhost/Poker_Effective_Hand_Strength/
+4. Enjoy!
